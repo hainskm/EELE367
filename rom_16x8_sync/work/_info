@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/EELE367
+Erom_16x8_sync
+Z0 w1460092926
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/user/Desktop/EELE367/rom_16x8_sync
+Z5 8C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync.vhd
+Z6 FC:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync.vhd
+l0
+L5
+VQ6?PUdM`<TR_EhG][^hX91
+!s100 K43QLYMoWB=Zecjb;cJMR0
+Z7 OV;C;10.3d;59
+32
+Z8 !s110 1460092936
+!i10b 1
+Z9 !s108 1460092936.148000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync.vhd|
+Z11 !s107 C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Arom_16x8_sync_arch
+R1
+R2
+R3
+DEx4 work 13 rom_16x8_sync 0 22 Q6?PUdM`<TR_EhG][^hX91
+l32
+L11
+Z14 V3j6nKPAAnYO<9Z7iAoMYY1
+Z15 !s100 FGAR?4_=GD0Vl2YQBK4;j3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Erom_16x8_sync_tb
+Z16 w1460091878
+R2
+R3
+R4
+Z17 8C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync_TB.vhd
+Z18 FC:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync_TB.vhd
+l0
+L4
+V46;?hcPog7?_<hjJ7FHh:3
+!s100 DCGZ51^oIHA01g_jmQF>=0
+R7
+32
+Z19 !s110 1460092885
+!i10b 1
+Z20 !s108 1460092885.388000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync_TB.vhd|
+Z22 !s107 C:/Users/user/Desktop/EELE367/rom_16x8_sync/rom_16x8_sync_TB.vhd|
+!i113 1
+R12
+R13
+Arom_16x8_sync_tb_arch
+R2
+R3
+DEx4 work 16 rom_16x8_sync_tb 0 22 46;?hcPog7?_<hjJ7FHh:3
+l19
+L7
+VUSi3>gB7O1CT`K9K6giV41
+!s100 ML?<keSg^a<j;;Z2XJJXf2
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13

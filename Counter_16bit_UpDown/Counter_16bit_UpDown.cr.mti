@@ -1,0 +1,19 @@
+C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Counter_16bit_UpDown_TB
+-- Compiling architecture Counter_16bit_UpDown_TB_arch of Counter_16bit_UpDown_TB
+
+} {} {}} C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Counter_16bit_UpDown
+-- Compiling architecture Counter_16bit_UpDown_arch of Counter_16bit_UpDown
+
+} {} {}}

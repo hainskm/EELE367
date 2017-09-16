@@ -1,0 +1,371 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/EELE367/rca_8bit
+Ealu
+Z0 w1461459378
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/user/Desktop/EELE367/Computer
+Z5 8C:/Users/user/Desktop/EELE367/Computer/alu.vhd
+Z6 FC:/Users/user/Desktop/EELE367/Computer/alu.vhd
+l0
+L5
+VWzWgZVY:HlLI?TF>B0zi20
+!s100 J9DJTaaZXRHa]I70BX43U2
+Z7 OV;C;10.3d;59
+32
+Z8 !s110 1461605725
+!i10b 1
+Z9 !s108 1461605725.859000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/alu.vhd|
+Z11 !s107 C:/Users/user/Desktop/EELE367/Computer/alu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Aalu_arch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 WzWgZVY:HlLI?TF>B0zi20
+l17
+L13
+Vbd6?Sd>HI9RO1TYMNkVJT2
+!s100 j[CgbK@df45X^BDfA2<[<0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomputer
+Z14 w1461542050
+R2
+R3
+R4
+Z15 8C:/Users/user/Desktop/EELE367/Computer/computer.vhd
+Z16 FC:/Users/user/Desktop/EELE367/Computer/computer.vhd
+l0
+L4
+Vf`Y7imfL6jB5NG=nmT^@63
+!s100 HO<0oMf8]mR@Md:Cfe`ck3
+R7
+32
+Z17 !s110 1461605723
+!i10b 1
+Z18 !s108 1461605723.587000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/computer.vhd|
+Z20 !s107 C:/Users/user/Desktop/EELE367/Computer/computer.vhd|
+!i113 1
+R12
+R13
+Acomputer_arch
+R2
+R3
+DEx4 work 8 computer 0 22 f`Y7imfL6jB5NG=nmT^@63
+l43
+L13
+VZf^4ezaWmLm8_a`NNd;hL1
+!s100 cOcG?8Da:2^dcjg0U?S6m0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ecomputer_tb
+Z21 w1460945220
+R2
+R3
+R4
+Z22 8C:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd
+Z23 FC:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd
+l0
+L18
+V:6Mfb8BIbMnB;11j7N09c0
+!s100 5JWm2o>BLD@M3B8LP1A^k2
+R7
+32
+R17
+!i10b 1
+Z24 !s108 1461605723.086000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd|
+Z26 !s107 C:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd|
+!i113 1
+R12
+R13
+Acomputer_tb_arch
+R2
+R3
+DEx4 work 11 computer_tb 0 22 :6Mfb8BIbMnB;11j7N09c0
+l101
+L21
+VHh4SJNV`L6SKY_O75bzDz0
+!s100 hY=E[83gZ;z4nVVdYjhAJ2
+R7
+32
+R17
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Econtrol_unit
+Z27 w1461624921
+R2
+R3
+R4
+Z28 8C:/Users/user/Desktop/EELE367/Computer/control_unit.vhd
+Z29 FC:/Users/user/Desktop/EELE367/Computer/control_unit.vhd
+l0
+L4
+V9:hP0Y=N<1X:UH9A^IK;Y2
+!s100 CjhEZc>l]fDn`_8WCOm7:2
+R7
+32
+Z30 !s110 1461624947
+!i10b 1
+Z31 !s108 1461624947.049000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/control_unit.vhd|
+Z33 !s107 C:/Users/user/Desktop/EELE367/Computer/control_unit.vhd|
+!i113 1
+R12
+R13
+Acontrol_unit_arch
+R2
+R3
+DEx4 work 12 control_unit 0 22 9:hP0Y=N<1X:UH9A^IK;Y2
+l39
+L22
+VTK3YP2SC8_N;0=7b<Z>h43
+!s100 gF13]MZiLHfd;[<bUWz7E0
+R7
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R12
+R13
+Ecpu
+Z34 w1461375944
+R2
+R3
+R4
+Z35 8C:/Users/user/Desktop/EELE367/Computer/cpu.vhd
+Z36 FC:/Users/user/Desktop/EELE367/Computer/cpu.vhd
+l0
+L4
+VGfn6bGf^65B^:jIdilJX90
+!s100 G]@TZ_ljhMoX8YRUE2Ml20
+R7
+32
+Z37 !s110 1461605724
+!i10b 1
+Z38 !s108 1461605724.283000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/cpu.vhd|
+Z40 !s107 C:/Users/user/Desktop/EELE367/Computer/cpu.vhd|
+!i113 1
+R12
+R13
+Acpu_arch
+R2
+R3
+DEx4 work 3 cpu 0 22 Gfn6bGf^65B^:jIdilJX90
+l60
+L13
+VFf[3:;_Fgdh;zR8bd9Re43
+!s100 E<___Xi<>W7zk^CBY34lN1
+R7
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R12
+R13
+Edata_path
+Z41 w1461605564
+R1
+R2
+R3
+R4
+Z42 8C:/Users/user/Desktop/EELE367/Computer/data_path.vhd
+Z43 FC:/Users/user/Desktop/EELE367/Computer/data_path.vhd
+l0
+L5
+VZZYf<5]G=Ih7]0T0oGZLK1
+!s100 0GR@Klj90b:`zOm?L2hz43
+R7
+32
+R8
+!i10b 1
+Z44 !s108 1461605725.328000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/data_path.vhd|
+Z46 !s107 C:/Users/user/Desktop/EELE367/Computer/data_path.vhd|
+!i113 1
+R12
+R13
+Adata_path_arch
+R1
+R2
+R3
+DEx4 work 9 data_path 0 22 ZZYf<5]G=Ih7]0T0oGZLK1
+l39
+L25
+VZmkZiQ<i^hJ_8ZdSJg9g`3
+!s100 oz^nS1339^_361V^cmAMW1
+R7
+32
+R8
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R12
+R13
+Ememory
+Z47 w1461621593
+R1
+R2
+R3
+R4
+Z48 8C:/Users/user/Desktop/EELE367/Computer/memory.vhd
+Z49 FC:/Users/user/Desktop/EELE367/Computer/memory.vhd
+l0
+L5
+Vi[Y3FU_Z21za69RW:?nSJ1
+!s100 K1KaidW<hBJBXn:odb3?Z0
+R7
+32
+Z50 !s110 1461621691
+!i10b 1
+Z51 !s108 1461621691.486000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/memory.vhd|
+Z53 !s107 C:/Users/user/Desktop/EELE367/Computer/memory.vhd|
+!i113 1
+R12
+R13
+Amemory_arch
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 i[Y3FU_Z21za69RW:?nSJ1
+l42
+L18
+VE^Jl:=?1Ql=kQRJg;798;0
+!s100 Ek6EmA5b`Wb0iF7m?l78g0
+R7
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R12
+R13
+Erom_128x8_sync
+Z54 w1461625054
+R1
+R2
+R3
+R4
+Z55 8C:/Users/user/Desktop/EELE367/Computer/rom_128x8_sync.vhd
+Z56 FC:/Users/user/Desktop/EELE367/Computer/rom_128x8_sync.vhd
+l0
+L5
+VPFg:A2zX5=;M4:QZg`hB>2
+!s100 kcYHX1YW>T02Mn]Q>bO;X3
+R7
+32
+Z57 !s110 1461625060
+!i10b 1
+Z58 !s108 1461625060.608000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/rom_128x8_sync.vhd|
+Z60 !s107 C:/Users/user/Desktop/EELE367/Computer/rom_128x8_sync.vhd|
+!i113 1
+R12
+R13
+Arom_128x8_sync_arch
+R1
+R2
+R3
+Z61 DEx4 work 14 rom_128x8_sync 0 22 PFg:A2zX5=;M4:QZg`hB>2
+l37
+L11
+VW_Wbk]ziezTH1JYOS>XjI3
+!s100 T6GWG?o>M>a8Ln1dQ5S3d1
+R7
+32
+R57
+!i10b 1
+R58
+R59
+R60
+!i113 1
+R12
+R13
+Erw_96x8_sync
+Z62 w1461449670
+R1
+R2
+R3
+R4
+Z63 8C:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd
+Z64 FC:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd
+l0
+L5
+VN`I2_^D^7d6_oeINSYHDh2
+!s100 3]XeK_zLR@YJE68GVlf;11
+R7
+32
+Z65 !s110 1461605727
+!i10b 1
+Z66 !s108 1461605727.742000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd|
+Z68 !s107 C:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd|
+!i113 1
+R12
+R13
+Arw_96x8_sync_arch
+R1
+R2
+R3
+DEx4 work 12 rw_96x8_sync 0 22 N`I2_^D^7d6_oeINSYHDh2
+l18
+L13
+VYIFFGkj`l0=1Y4EJc8QCi1
+!s100 OX_TUzFWoCKg>?MV17]gn1
+R7
+32
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R12
+R13

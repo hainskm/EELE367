@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/EELE367/fsm2_behavorial
+Ecounter_16bit_updown
+Z0 w1457068519
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/user/Desktop/EELE367/Counter_16bit_UpDown
+Z5 8C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd
+Z6 FC:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd
+l0
+L5
+VmK7@ShUVz;6UWlQ6RN1YD2
+!s100 WlWbHR206:7IMS^CV;[=80
+Z7 OV;C;10.3d;59
+32
+Z8 !s110 1457068522
+!i10b 1
+Z9 !s108 1457068522.538000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd|
+Z11 !s107 C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Acounter_16bit_updown_arch
+R1
+R2
+R3
+Z14 DEx4 work 20 counter_16bit_updown 0 22 mK7@ShUVz;6UWlQ6RN1YD2
+l15
+L11
+Z15 VVY@Vo<T>M2aO7eK7NdhIo0
+Z16 !s100 ;@Q=Ya>5:C<JZYXd6]o4O1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter_16bit_updown_tb
+Z17 w1457067110
+R1
+R2
+R3
+R4
+Z18 8C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd
+Z19 FC:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd
+l0
+L5
+V;52;WV?lSlFOSkezBTIJV3
+!s100 8nX^BUGS14om^U1hU539f1
+R7
+32
+Z20 !s110 1457068027
+!i10b 1
+Z21 !s108 1457068027.472000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd|
+Z23 !s107 C:/Users/user/Desktop/EELE367/Counter_16bit_UpDown/Counter_16bit_UpDown_TB.vhd|
+!i113 1
+R12
+R13
+Acounter_16bit_updown_tb_arch
+R1
+R2
+R3
+DEx4 work 23 counter_16bit_updown_tb 0 22 ;52;WV?lSlFOSkezBTIJV3
+l20
+L8
+VRVWLV:8YU`d]kcadWa02F1
+!s100 hPZ_ImYUYz^=K282la;NB2
+R7
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R12
+R13

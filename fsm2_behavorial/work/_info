@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/EELE367/SystemL
+Efsm2_behavioral
+Z0 w1457066645
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/user/Desktop/EELE367/fsm2_behavorial
+Z4 8C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd
+Z5 FC:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd
+l0
+L4
+Ve?AB4:B]?B^DUmS0^d]=U3
+!s100 XaQJNH0m[;SJ<3Em7z4Qg3
+Z6 OV;C;10.3d;59
+32
+Z7 !s110 1457066651
+!i10b 1
+Z8 !s108 1457066651.396000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd|
+Z10 !s107 C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Afsm2_behavioral_arch
+R1
+R2
+DEx4 work 15 fsm2_behavioral 0 22 e?AB4:B]?B^DUmS0^d]=U3
+l14
+L10
+VIj@WfZAOLEIDLm_W_D^022
+!s100 @ikb@FQ<68Ahn62UK8iWV1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efsm2_behavioral_tb
+Z13 w1457065607
+R1
+R2
+R3
+Z14 8C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd
+Z15 FC:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd
+l0
+L4
+V6^30mM:^>XmLFTEYD2clM3
+!s100 <K5Z07`JDT>ZL[oP:[jk32
+R6
+32
+Z16 !s110 1457066538
+!i10b 1
+Z17 !s108 1457066538.028000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd|
+Z19 !s107 C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd|
+!i113 1
+R11
+R12
+Afsm2_behavioral_tb_arch
+R1
+R2
+DEx4 work 18 fsm2_behavioral_tb 0 22 6^30mM:^>XmLFTEYD2clM3
+l23
+L7
+VFK]Mn8kSd>K<7T9@o>A^80
+!s100 F4O4F>=2fUbM?n7bi4HHA2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Efsm2_behavorial
+Z20 w1457066534
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+VUFWL42@ck_gj?IEPf8JKn1
+!s100 LLG@fWKm27KYcSf4]P?5^2
+R6
+32
+R16
+!i10b 1
+Z21 !s108 1457066538.537000
+R9
+R10
+!i113 1
+R11
+R12
+Afsm2_behavorial_arch
+R1
+R2
+DEx4 work 15 fsm2_behavorial 0 22 UFWL42@ck_gj?IEPf8JKn1
+l14
+L10
+VzbnEZ9@E_fi=Q]6>^S4aR2
+!s100 :OmVoTz6Bk1DZ`Zbml<[S0
+R6
+32
+R16
+!i10b 1
+R21
+R9
+R10
+!i113 1
+R11
+R12

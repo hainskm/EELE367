@@ -1,0 +1,52 @@
+C:/Users/user/Desktop/EELE367/Computer/cpu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/cpu.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpu
+-- Compiling architecture cpu_arch of cpu
+
+} {} {}} C:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/computer_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity computer_TB
+-- Compiling architecture computer_TB_arch of computer_TB
+
+} {} {}} C:/Users/user/Desktop/EELE367/Computer/data_path.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/data_path.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity data_path
+-- Compiling architecture data_path_arch of data_path
+
+} {} {}} C:/Users/user/Desktop/EELE367/Computer/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture alu_arch of alu
+
+} {} {}} C:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/rw_96x8_sync.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rw_96x8_sync
+-- Compiling architecture rw_96x8_sync_arch of rw_96x8_sync
+
+} {} {}} C:/Users/user/Desktop/EELE367/Computer/computer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/Computer/computer.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity computer
+-- Compiling architecture computer_arch of computer
+
+} {} {}}

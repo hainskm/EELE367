@@ -1,0 +1,17 @@
+C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavorial.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fsm2_behavioral
+-- Compiling architecture fsm2_behavioral_arch of fsm2_behavioral
+
+} {} {}} C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/EELE367/fsm2_behavorial/fsm2_behavioral_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fsm2_behavioral_TB
+-- Compiling architecture fsm2_behavioral_TB_arch of fsm2_behavioral_TB
+
+} {} {}}
